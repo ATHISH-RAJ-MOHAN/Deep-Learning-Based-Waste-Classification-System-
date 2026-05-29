@@ -113,16 +113,6 @@ Deep-Learning-Based-Waste-Classification-System/
 
 ---
 
-## Google Colab Notebook
-
-The complete project notebook can be accessed through Google Colab:
-
-**Google Colab Link**
-
-https://colab.research.google.com/drive/1ufBX7ovxWNCSYxMLJIwx5SzSIOfxcS0-?usp=sharing
-
----
-
 ## Project Workflow
 
 ### 1. Data Loading
